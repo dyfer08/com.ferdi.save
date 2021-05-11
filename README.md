@@ -2,7 +2,7 @@
 An easy to use encrypted game save manager. Create, load, save game data on any platform. It's using a SHA256 encryption and warns you if the game save has been modified or the SHA key is missing so you can decide what to do. You can create as many game save as you want by passing a slot int.
 
 **Download** :
-- Open the package manager window in Unity, click on Add package from Git url and add the following url : https://github.com/dyfer08/com.ferdi.save
+- Open the Package Manager window in Unity, click on "Add package from Git url" and add the following url : https://github.com/dyfer08/com.ferdi.save
 
 **How to use** :
 - Click on GameObject/SaveManager to add a SaveManager prefab to your scene. It is a DontDestroyOnLoad singleton object.
