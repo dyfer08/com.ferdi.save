@@ -1,0 +1,22 @@
+{
+  "name": "com.ferdi.save",
+  "version": "1.0.0",
+  "displayName": "Save Manager",
+  "description": "An easy to use encrypted game save manager. Create, load, save game data on any platform. It's using a SHA256 encryption and warns you if the game save has been modified or the SHA key is missing so you can decide what to do. You can create as many game save as you want by passing a slot int.\n\nChangelog :\n\nv 1.0.0 [2021.05.11]\nInitial version of the Save Manager package.",
+  "unity": "2019.1",
+  "keywords": [
+    "Ferdi",
+    "Hierarchy",
+    "Color",
+    "Manager"
+  ],
+  "author": {
+    "name": "Ferdi",
+    "email": "dervieuxferdinand@gmail.com",
+    "url": "https://ferdinanddervieux.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dyfer08/com.ferdi.save.git"
+  }
+}
