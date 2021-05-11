@@ -5,7 +5,7 @@ An easy to use encrypted game save manager. Create, load, save game data on any 
 - Open the package manager window in Unity, click on Add package from Git url and add the following url : https://github.com/dyfer08/com.ferdi.save
 
 **How to use** :
-- Click on GameObject -> SaveManager to add a SaveManager prefab to your scene. It is a DontDestroyOnLoad singleton object.
+- Click on GameObject/SaveManager to add a SaveManager prefab to your scene. It is a DontDestroyOnLoad singleton object.
 - Create or load an existing game save in a specific slot. If the slot is empty, it creates a new game save in this slot.
 **You need to create or load a game save to be able to use most of the SaveManager functions( eg : GetData, SetData, SaveGame ).**
   ```csharp
